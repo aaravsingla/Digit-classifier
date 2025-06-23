@@ -4,7 +4,7 @@ A full-stack web application that classifies handwritten digits using a deep lea
 Users can upload an image and receive instant predictions through an AI-powered interface.
 
 ---
-
+![main_UI](frontend/public/readme_ui.png)
 ## 🚀 Tech Stack
 
 ### ⚙️ Frontend
