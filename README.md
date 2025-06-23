@@ -5,8 +5,11 @@ Users can upload an image and receive instant predictions through an AI-powered 
 
 ---
 ![main1_UI](frontend/public/readme_counter.png)
+#Dynnamic animated loaded screen made with React
 
 ![main_UI](frontend/public/readme_ui.png)
+#Main Page
+
 ## 🚀 Tech Stack
 
 ### ⚙️ Frontend
