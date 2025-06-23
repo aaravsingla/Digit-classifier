@@ -38,6 +38,8 @@ Users can upload an image and receive instant predictions through an AI-powered 
   - ✅ **Accuracy:** ~98% on MNIST test set
 - **Export Format:** `model.h5` (Keras-compatible HDF5)
 
+- ![accuracy Plot](frontend/public/accu_plot.png)
+
 ---
 
 ## 📦 Project Structure
